@@ -1,2 +1,2 @@
 target=HelloWorld
-classpath=.
+classpath=./bin
