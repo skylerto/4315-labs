@@ -3,6 +3,8 @@ lab1.jar
 hamcrest-core-1.3.jar
 RemoteSystemsTempFiles/
 .recommenders/
+*.class
+/**/*.class
 
 *.pydevproject
 .metadata
