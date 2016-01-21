@@ -20,9 +20,8 @@ public class Reindeer extends Thread {
           e.printStackTrace();
         }
       } else {
-        Santa.wake();
+        Santa.wake("lets go my beautiful reindeer!");
         reinSema.release(9);
-        rein = false;
         break;
       }
     }

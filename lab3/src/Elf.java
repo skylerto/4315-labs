@@ -15,7 +15,6 @@ public class Elf extends Thread {
       if(Reindeer.reinSema.availablePermits() < 1){
         //System.out.println("awww: " + Reindeer.reinSema.availablePermits());
         elfSema.release(3);
-        elf = false;
         break;
       } else {
         if(elfSema.availablePermits() > 0){
@@ -25,7 +24,7 @@ public class Elf extends Thread {
             e.printStackTrace();
           }
         } else {
-          Santa.wake();
+          Santa.wake("What do you want crafty elves?");
           elfSema.release(3);
         }
       }
