@@ -1,5 +1,8 @@
 import java.util.concurrent.Semaphore;
 
+/**
+ * Skyler Layne © MIT 2016
+ */
 public class Sema {
   public static void main(String[] args){
    Semaphore elf = new Semaphore(2);

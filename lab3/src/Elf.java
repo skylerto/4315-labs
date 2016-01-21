@@ -1,6 +1,9 @@
 import java.util.concurrent.Semaphore;
 import java.lang.Thread;
 
+/**
+ * Skyler Layne © MIT 2016
+ */
 public class Elf extends Thread {
 
   private static Semaphore elfSema = new Semaphore(3);
