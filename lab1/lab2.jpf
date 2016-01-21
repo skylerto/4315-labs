@@ -1,0 +1,2 @@
+target=test.Main
+classpath=lib/junit-4.12.jar:lib/hamcrest-core-1.3.jar:lib/lab1.jar:bin:.
