@@ -1,0 +1,6 @@
+target=lab4.Printer
+classpath=bin/;.
+search.RandomSearch.path_limit=4
+cg.enumerate_random=true
+cg.randomize_choices=FIXED_SEED
+search.class=gov.nasa.jpf.search.RandomSearch 

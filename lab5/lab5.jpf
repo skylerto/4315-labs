@@ -1,0 +1,4 @@
+target=lab5.HelloWorld
+classpath=.;bin/
+native_classpath=.;bin/
+listener=lab5.MnemonicPrinter

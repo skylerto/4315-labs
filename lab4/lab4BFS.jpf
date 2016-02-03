@@ -1,0 +1,5 @@
+target=lab4.Printer
+classpath=bin/;.
+cg.enumerate_random=true
+search.class=gov.nasa.jpf.search.heuristic.BFSHeuristic
+listener=gov.nasa.jpf.listener.StateSpaceDot
