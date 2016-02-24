@@ -1,0 +1,3 @@
+target=ComputeSquareRoot
+classpath=.;bin/;
+native_classpath=.;bin/
