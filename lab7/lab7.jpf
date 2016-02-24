@@ -1,3 +1,0 @@
-target=ComputeSquareRoot
-classpath=.;bin/;bin/java/lang;
-native_classpath=.;bin/
