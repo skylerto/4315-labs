@@ -1,0 +1,5 @@
+target=main.Example
+classpath=.;bin/
+native_classpath=.
+listener=AmountOfNonDeterminism
+cg.enumerate_random=true
