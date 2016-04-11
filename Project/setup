@@ -1,4 +1,0 @@
-#! /bin/sh
-
-mysql -uroot < setup.sql
-./compile

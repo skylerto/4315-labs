@@ -1,3 +1,0 @@
-#! /bin/sh
-
-java -cp bin/:lib/mysql-jdbc.jar App

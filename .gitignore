@@ -5,6 +5,7 @@ RemoteSystemsTempFiles/
 .recommenders/
 *.class
 /**/*.class
+Project/
 
 *.pydevproject
 .metadata
