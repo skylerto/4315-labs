@@ -1,6 +1,8 @@
 # EECS 4315: Mission Critical Systems
 
-Here are the labs for the course. 
+Here are the labs for the course. I also wrote some quick and dirty notes on the
+lectures, they can be found in the
+[wiki](https://github.com/skylerto/Mission-Critical-Systems/wiki).
 
 ## License
 

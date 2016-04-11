@@ -1,5 +1,5 @@
 target=main.Example
-classpath=.;bin/
-native_classpath=.
-listener=AmountOfNonDeterminism
+classpath=.;bin/;
+native_classpath=.;bin/
+listener=main.AmountOfNonDeterminism
 cg.enumerate_random=true

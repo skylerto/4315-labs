@@ -1,0 +1,3 @@
+target=App
+classpath=.;bin/;
+native_classpath=bin/model-classes/;
